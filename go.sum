@@ -1,0 +1,5 @@
+github.com/cavebeavis/go-mod-yo v1.0.0 h1:uKtAnSDisutB8laLko3SXU+sYBKwy6ocSnd82IFVLCU=
+github.com/cavebeavis/go-mod-yo v1.0.0/go.mod h1:CMSP3UvGQup3QLNBq6gWGWaYUB9BhWs3ETKCj0mWJyM=
+github.com/cavebeavis/go-mod-yo/v2 v2.0.0 h1:GkmEv92+aF46wOLJRCJdIB1dqqKD+qfC5cSfudk9yEg=
+github.com/cavebeavis/go-mod-yo/v2 v2.0.2 h1:yAa+98eeEGaIhakoQrjj7srvbPfVR7DDxh09+vN4bk4=
+github.com/cavebeavis/go-mod-yo/v2 v2.0.2/go.mod h1:Q7sq7eHvmc6gK9/xVR291FxTmDNeF3HDcaWU8ew075o=
